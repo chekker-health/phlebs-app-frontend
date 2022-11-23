@@ -81,7 +81,7 @@
             Identification Number
           </p>
           <div class="new_input">
-            <input v-model="id_num" placeholder="Enter Identifcation Number" type="number">
+            <input v-model="id_num" placeholder="Enter Identifcation Number" type="text">
           </div>
         </div>
         <div class="input-box">
