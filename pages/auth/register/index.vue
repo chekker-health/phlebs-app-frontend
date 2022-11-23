@@ -52,7 +52,7 @@
             </div>
             <div class="input-box">
               <p class="label">
-                Phone Number
+                WhatsApp Phone Number
               </p>
               <div class="new_input">
                 <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -175,7 +175,7 @@
               </div>
               <div class="input-box">
                 <p class="label">
-                  Phone Number
+                  WhatsApp Phone Number
                 </p>
                 <div class="new_input">
                   <svg width="24" height="24" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
