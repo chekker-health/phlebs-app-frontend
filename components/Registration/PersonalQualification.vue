@@ -288,8 +288,7 @@ export default {
         this.proficiency === null ||
         this.years_expertise === '' ||
         this.inputCVfile === null ||
-        this.inputLicencefile === null ||
-        this.inputSupportingfile === null
+        this.inputLicencefile === null
       )
     }
   },

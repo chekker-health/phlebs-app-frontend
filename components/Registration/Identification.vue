@@ -148,7 +148,7 @@
             </div>
           </label>
           <p class="note">
-            File Format should be in PDF or .doc format
+            File Format should be in JPG or PNG format
           </p>
         </div>
         <div class="bottom_btn">
