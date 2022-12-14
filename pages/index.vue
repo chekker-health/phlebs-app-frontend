@@ -456,7 +456,7 @@ export default {
 
 .pdf_ctn {
   height: 73vh;
-  width: 60%;
+  width: 80%;
 }
 
 .pdf_top {
